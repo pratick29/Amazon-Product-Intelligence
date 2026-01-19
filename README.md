@@ -154,3 +154,31 @@ Amazon-Product-Intelligence/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
+
+## 📸 Screenshots
+
+### Home Page
+<img width="1857" height="791" alt="home" src="https://github.com/user-attachments/assets/bd23a727-53d5-4a91-8773-1748f064199b" />
+
+
+### Product Detail
+<img width="1868" height="694" alt="productdetail" src="https://github.com/user-attachments/assets/df0d58fa-fc3b-4159-bde3-ef55714ea2e3" />
+
+
+### Category Intelligence
+<img width="1878" height="819" alt="categoryintelligence" src="https://github.com/user-attachments/assets/0e07780a-7c5b-41b8-887d-122db7316cc0" />
+
+
+
+### Deal Simulator
+<img width="1867" height="822" alt="dealsimulator" src="https://github.com/user-attachments/assets/756a5201-fc81-4cd6-8c22-9ff17b82ed0a" />
+
+
+
+### Compare Products
+<img width="1886" height="787" alt="compare products" src="https://github.com/user-attachments/assets/bc61fc8d-5b91-4e26-b8b4-394880a9e36c" />
+
+
+
+
